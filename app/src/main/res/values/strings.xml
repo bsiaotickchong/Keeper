@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Keeper</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="email_title">Email</string>
+    <string name="password_title">Password</string>
+    <string name="title_activity_home">Home</string>
+    <string name="thing_name">Name</string>
+    <string name="thing_description">Description</string>
+    <string name="add_button_text">Add</string>
+    <string name="title_add_thing">Add a Thing</string>
+    <string name="add_a_thing_description">It could be an place, friend, coworker, arch-enemy, you name it!</string>
+    <string name="add_a_thing_title">Add a Thing</string>
+    <string name="image_content_description">Image</string>
+    <string name="view_thing_descriptiontitle">Description</string>
+    <string name="view_thing_nametitle">Name</string>
+    <string name="view_thing_descriptiontext">Description</string>
+    <string name="view_thing_tagstext">Tags</string>
+</resources>
