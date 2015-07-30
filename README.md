@@ -1,4 +1,4 @@
-# Keeper - Brian Siao Tick Chong
+# Keeper
 
 Keeper is an Android app that remembers what you tell it!
 Rather than having Facebook tell you about a person, write down and save what the person is to you.
@@ -13,3 +13,5 @@ Things to work on:
 - sub memories for each entry
 - editable entries
 - online saving/accounts
+
+Creator: Brian Siao Tick Chong
